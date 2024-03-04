@@ -1,5 +1,8 @@
 USE master
+--DROP DATABASE empresa_viagens
+
 CREATE DATABASE	empresa_viagens
+GO
 USE empresa_viagens
 CREATE TABLE motorista(
 codigo				INT				NOT NULL,
